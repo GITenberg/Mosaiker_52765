@@ -1,5 +1,8 @@
 _repo: Mosaiker_52765
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52765-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -10,6 +13,8 @@ description: '"(Utgifven af Emilie Björksten. Innehåll: Dikter af Fredrika Run
   Adelaïde Ehrnrooth, F. Berndtson, Richard Björkstén, F[redrik] Cygnæus, Emilie Björkstén,
   Moritz Hornborg, G[abriel] Lagus, Th[eodor] Lindh, Wilhelmina Nordström, Z. Topelius
   m. fl.)" --Den svenska skönliteraturen i Finland till och med år 1885'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52765#Mosaiker
 gutenberg_issued: '2016-08-09'
 gutenberg_type: Text
 identifiers:
